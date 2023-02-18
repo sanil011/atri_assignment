@@ -1675,7 +1675,7 @@ const desktopModeProps = {
     "Image32": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/616da2c3a17185112de60f4a_Instagram-04-restaurante-x-template-p-500.jpeg"
+        "src": "/app-assets/616dbb79aa873fb79780189b_blog-post-featured-image-06-restaurante-x-template-p-500.jpeg"
       },
       "callbacks": {
         "onClick": [

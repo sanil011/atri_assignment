@@ -482,7 +482,7 @@ overflow: hidden;
 .p-Home.Flex48 {
 display: flex;
 flex-direction: column;
-row-gap: 2em;
+row-gap: 1.4em;
 padding-top: ;
 padding-left: ;
 }
@@ -502,8 +502,9 @@ width: 47%;
 .p-Home.Flex49 {
 display: flex;
 flex-wrap: wrap;
-row-gap: 1em;
+row-gap: 3.5em;
 column-gap: .8em;
+align-content: space-between;
 }
 .p-Home.Div65 {
 width: 48%;
@@ -518,7 +519,7 @@ row-gap: 1em;
 }
 .p-Home.Div66 {
 width: 100%;
-height: 60%;
+height: 40%;
 overflow: hidden;
 }
 .p-Home.Div68 {
@@ -1387,7 +1388,7 @@ padding-bottom: 10px;
 }
 .p-Home.Image32 {
 width: 100%;
-height: ;
+height: 100%;
 overflow: visible;
 box-sizing: content-box;
 }
